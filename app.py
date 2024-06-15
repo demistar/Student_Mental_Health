@@ -21,7 +21,7 @@ uploaded_file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 if uploaded_file is not None:
     # Load the dataset
     df = pd.read_csv(uploaded_file)
-    st.success(":wave: `Welcome, Your Data is succesfully imported`")
+    st.success(":wave: `Welcome, Your Data is succesfully imported !!!`")
     st.balloons()
     
     # Display the dataset
