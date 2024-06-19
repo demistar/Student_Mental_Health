@@ -10,7 +10,7 @@ st.title("`Student Mental Health Analysis`")
 st.markdown("---")
 st.subheader(":clap:`About`")
 st.write("""
-Our Streamlit web app for student mental health analysis provides a user-friendly platform designed to support students' well-being. 
+Our Streamlit web app for `student mental health analysis` provides a user-friendly platform designed to support students' well-being. 
 Leveraging data analytics and visualization, the app allows students to anonymously input their mental health metrics and receive 
 instant feedback on their mental well-being. The app features interactive charts and insights that help identify patterns and potential 
 areas of concern, offering valuable resources and recommendations tailored to individual needs. By promoting awareness and understanding 
